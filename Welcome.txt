@@ -1,0 +1,1 @@
+Welcome, click on the "index.html" file to accses the calculator
